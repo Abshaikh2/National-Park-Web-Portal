@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; 
+}
+@font-face {
+    font-family: logo;
+    src: url(Altheria-Regular.ttf);
+}
+.nav .headd #ulu .btns button{
+    margin: 0px 10px;
+    background: transparent;
+    border: none;
+    color: white;
+    
+}
+.nav .headd #ulu .btns{
+    margin-left: 100px;
+}
+
+#ulu li{
+    padding: 0px 15px;
+    list-style: none;
+    
+}
+#ulu{
+    padding-left: 80px;
+}
+#ulu li a{
+    text-decoration: none;
+    color: white;
+    
+}
+.nav .headd #ulu li a:hover{
+    color: green;
+}
+#logo{
+    font-family: logo;
+    font-weight: 600;
+    font-size: 36px;
+    color: white;
+
+}
+.changeme{
+    padding-left: 10px;
+}
+#carouselimg{
+    border-radius: 20%;
+}
+
